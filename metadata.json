@@ -1,0 +1,5 @@
+{
+  "name": "Azubi Rezepte Sammlung",
+  "description": "Generiert einfache und günstige Rezepte für Lehrlinge mit der Gemini API.",
+  "requestFramePermissions": []
+}
